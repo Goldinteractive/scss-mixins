@@ -1,3 +1,6 @@
 [submodule "SassyCast"]
 	path = SassyCast
 	url = https://github.com/Goldinteractive/SassyCast.git
+[submodule "ui-dotfiles"]
+	path = ui-dotfiles
+	url = https://github.com/Goldinteractive/ui-dotfiles.git
