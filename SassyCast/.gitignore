@@ -1,0 +1,4 @@
+*.gem
+node_modules
+tmp
+.sass-cache
