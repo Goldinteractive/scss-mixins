@@ -1,6 +1,6 @@
 {
   "name": "gi-scss-mixins",
-  "version": "0.3.1",
+  "version": "0.3.0",
   "main": "_mixins.scss",
   "repository": "git@github.com:Goldinteractive/scss-mixins.git",
   "author": "gold interactive",
