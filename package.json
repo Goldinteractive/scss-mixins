@@ -1,0 +1,19 @@
+{
+  "name": "gi-scss-mixins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_mixins.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goldinteractive/scss-mixins.git"
+  },
+  "author": "Gold Interactive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goldinteractive/scss-mixins/issues"
+  },
+  "homepage": "https://github.com/Goldinteractive/scss-mixins#readme"
+}
